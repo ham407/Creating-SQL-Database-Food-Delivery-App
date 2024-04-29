@@ -27,3 +27,14 @@ Dummy data yang **akan dibuat** adalah tabel-tabel berikut:
 * order
 * order_detail
 * order_status_log
+
+## Skills Yang Dibutuhkan
+1. Database Design Process
+2. SQL DDL
+3. SQL DML atau import data
+4. Text Search
+5. Geometric Type
+6. Python Faker
+7. Basic Select & Filtering
+8. Grouping and Aggregating
+9. Joining Table
