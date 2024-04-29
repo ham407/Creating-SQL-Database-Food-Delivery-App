@@ -1,0 +1,86 @@
+﻿food_id,restaurant_id,food_name,price,description,availability
+1,1,Nasi Padang,17000,"Nasi dengan lauk rendang, gulai, atau sambal",TRUE
+2,1,Ayam Pop,25000,Ayam goreng khas Padang,TRUE
+3,2,Bakso Pak Kumis,19000,Bakso dengan kuah kaldu sapi khas Pak Kumis,TRUE
+4,2,Mie Ayam Bakso,18000,Mie dengan ayam dan bakso dalam kuah kaldu,TRUE
+5,3,Sate Ayam Madura,30000,Sate ayam dengan bumbu kacang khas Madura,TRUE
+6,3,Lontong,27000,Nasi lontong yang disajikan dengan sate ayam,TRUE
+7,4,Ayam Geprek,22000,Ayam goreng tepung yang digeprek dengan sambal,TRUE
+8,4,Nasi Putih,15000,Nasi putih yang disajikan bersama ayam geprek,TRUE
+9,5,Nasi Goreng Mas Poer,28000,Nasi goreng dengan bumbu rempah khas Mas Poer,TRUE
+10,5,Telur Mata Sapi,20000,Telur mata sapi yang disajikan bersama nasi goreng,TRUE
+11,6,Bakmi Goreng Jawa,20500,Bakmi goreng dengan bumbu khas Jawa,TRUE
+12,6,Soto Ayam,17850,"Soto ayam dengan potongan daging ayam, tauge, dan mie",TRUE
+13,7,Mie Ayam Kuah,23400,Mie dengan kuah ayam khas Enak,TRUE
+14,7,Pangsit Goreng,16200,Pangsit goreng yang disajikan dengan saus sambal,TRUE
+15,8,Nasi Uduk Betawi,19900,"Nasi dengan lauk ayam, tempe, dan telur khas Betawi",TRUE
+16,8,Sayur Nangka,15550,Sayur nangka yang disajikan sebagai lauk nasi uduk,TRUE
+17,9,Pecel Lele,18500,Pecel dengan lauk ikan lele khas Lela,TRUE
+18,9,Tahu Tempe Goreng,21650,Tahu dan tempe goreng yang disajikan sebagai pelengkap pecel,TRUE
+19,10,Sop Buntut,16800,Sop dengan daging buntut sapi khas,TRUE
+20,10,Sop Buntut Spesial,22300,Sop dengan daging buntut sapi spesial,TRUE
+21,11,Pecel Lele,15050,"Olahan lele yang dicampur bumbu rempah khas Jawa, disajikan dengan nasi, sayuran, dan sambal terasi.",TRUE
+22,11,Sate Ayam,17900,"Potongan daging ayam yang ditusuk dengan tusuk sate dan dibakar, disajikan dengan bumbu kacang dan lontong.",TRUE
+23,12,Nasi Pecel,19750,"Nasi disajikan dengan pecel sayur, tahu, tempe, dan sambal kacang.",TRUE
+24,12,Rawon,17000,"Sup daging berkuah hitam khas Jawa Timur dengan daging sapi empuk, serundeng, telur asin, dan sambal.",TRUE
+25,13,Nasi Ayam Goreng,21250,Nasi disajikan dengan ayam goreng khas Jawa dan sambal.,TRUE
+26,13,Nasi Ayam Goreng Bakar,22150,Nasi disajikan dengan ayam goreng bakar khas Jawa dan sambal.,FALSE
+27,14,Sate Maranggi,15850,"Sate daging sapi khas Sunda yang dilumuri bumbu kacang, disajikan dengan nasi, lontong, dan sambal.",TRUE
+28,14,Gurame Goreng,18150,"Ikan gurame yang digoreng kering dan renyah, disajikan dengan sambal terasi dan nasi.",FALSE
+29,15,Nasi Goreng Special,22500,"Nasi goreng yang diberi berbagai macam bumbu dan disajikan dengan irisan telur dadar, kerupuk, dan acar.",TRUE
+30,15,Mie Goreng Aceh,15100,"Mie goreng dengan bumbu khas Aceh dan disajikan dengan irisan daging ayam, telur, sayur-sayuran, dan kerupuk.",TRUE
+31,16,Spaghetti Aglio Olio,27800,"Spaghetti yang diolah dengan bawang putih dan cabai, disajikan dengan keju parmesan dan parsley.",TRUE
+32,16,Chicken Steak,20300,"Potongan dada ayam yang digoreng dan disajikan dengan saus tomat, kentang goreng, dan sayuran.",FALSE
+33,17,Ayam Cipir,31700,"Ayam yang diolah dengan bumbu rempah khas Cibiuk dan disajikan dengan nasi, sambal, dan lalapan.",TRUE
+34,17,Tahu Gejrot,25600,"Olahan tahu dengan bumbu kacang dan saus pedas, disajikan dengan irisan timun dan kerupuk.",TRUE
+35,18,Grilled Salmon,22100,Grilled salmon with lemon butter sauce,TRUE
+36,18,Vegetarian Burger,35900,A vegetarian burger with sweet potato fries,TRUE
+37,18,Truffle Fries,39400,Fries with truffle oil and parmesan cheese,FALSE
+38,19,Red Velvet Cupcake,25000,Moist and fluffy red velvet cupcake with cream cheese frosting,TRUE
+39,19,Cinnamon Roll,32000,Classic cinnamon roll with cream cheese frosting,TRUE
+40,19,Avocado Toast,38600,"Toast with smashed avocado, feta cheese, and cherry tomatoes",FALSE
+41,20,Nasi Goreng Kampung,37800,Fried rice with chicken and vegetables in Indonesian style,TRUE
+42,20,Soto Betawi,34100,Beef soup with vegetables and coconut milk,TRUE
+43,20,French Toast,22800,Toast with maple syrup and whipped cream,FALSE
+44,21,Chicken Teriyaki Bowl,27600,"Rice bowl with chicken teriyaki, vegetables, and egg",TRUE
+45,21,Matcha Latte,29500,Latte with matcha powder and steamed milk,TRUE
+46,21,Blueberry Muffin,39200,Freshly baked muffin with blueberries,FALSE
+47,22,Pad Thai,20600,"Stir-fried rice noodle with shrimp, tofu, and vegetables",TRUE
+48,22,Tom Yum Soup,32900,Spicy and sour soup with shrimp and mushrooms,TRUE
+49,22,Green Curry,26900,"Curry with chicken, eggplant, and bamboo shoots",FALSE
+50,23,Beef Wellington,39700,Tender beef wrapped in puff pastry with mushroom sauce,TRUE
+51,23,Caesar Salad,32000,"Salad with romaine lettuce, parmesan cheese, and croutons",TRUE
+52,23,Lobster Bisque,23000,Creamy soup with lobster meat,FALSE
+53,24,Ikan Bakar,24000,Grilled fish with Indonesian spices,TRUE
+54,24,Gado-gado,37000,Indonesian salad with peanut sauce,TRUE
+55,24,Rendang,34000,Spicy beef stew in coconut milk,FALSE
+56,25,Sop Buntut,22000,Sup buntut dengan kuah yang kaya rasa,TRUE
+57,25,Sate Maranggi,38000,Sate daging sapi dengan bumbu khas Maranggi,TRUE
+58,25,Nasi Goreng Kambing,31000,Nasi goreng dengan daging kambing dan bumbu khas,TRUE
+59,26,Ayam Bakar,27000,Ayam bakar dengan bumbu rempah khas Indonesia,TRUE
+60,26,Gado-gado,38000,Salad sayuran dengan saus kacang khas Indonesia,TRUE
+61,26,Nasi Goreng Seafood,39000,Nasi goreng dengan campuran seafood,TRUE
+62,27,Bebek Goreng,25000,Bebek goreng dengan bumbu rempah khas Indonesia,TRUE
+63,27,Bebek Bakar,27000,Bebek bakar dengan bumbu rempah khas Indonesia,TRUE
+64,27,Nasi Bebek Tepi Sawah,38000,Nasi dengan lauk bebek goreng/bakar dan sambal,TRUE
+65,28,Spaghetti Carbonara,34000,Spaghetti dengan saus carbonara yang kental,TRUE
+66,28,Beef Teriyaki Donburi,29000,Nasi dengan potongan daging sapi saus teriyaki,TRUE
+67,28,Cheeseburger,29000,Burger dengan keju dan sayuran,TRUE
+68,29,Rujak Cingur,25000,Salad buah dengan cingur (mulut sapi) dan sambal,TRUE
+69,29,Rawon,29000,Sup daging dengan kuah hitam khas Jawa,TRUE
+70,29,Sate Kelopo,31000,Sate kelapa dengan bumbu kacang khas Surabaya,TRUE
+71,30,Nasi Campur,27800,Assorted rice dish with various toppings and sides,TRUE
+72,30,Nasi Goreng Special,20300,Fried rice with special seasoning and toppings,TRUE
+73,30,Sate Lilit,31700,Balinese-style satay made from minced meat,TRUE
+74,31,Bebek Betutu,25600,Balinese-style steamed and roasted duck,TRUE
+75,31,Nasi Campur Bebek,22100,Assorted rice dish with duck and various sides,TRUE
+76,31,Bebek Goreng,35900,Fried duck,TRUE
+77,32,Nasi Campur Bali,39400,Assorted rice dish with Balinese-style toppings and sides,TRUE
+78,32,Ayam Betutu,25000,Balinese-style steamed and roasted chicken,TRUE
+79,32,Sate Lilit,32000,Balinese-style satay made from minced meat,TRUE
+80,33,Babi Guling,38600,Balinese-style roasted pig with various sides,TRUE
+81,33,Nasi Campur Babi Guling,37800,Assorted rice dish with roasted pig and various sides,TRUE
+82,33,Sate Lilit Babi,34100,Balinese-style satay made from minced pork meat,TRUE
+83,34,Pempek Kapal Selam,22800,Deep-fried fishcake stuffed with egg and served with sauce,TRUE
+84,34,Tekwan,27600,Fishball soup with mushroom and shrimp,TRUE
+85,34,Mie Celor,29500,"Noodle soup with shrimp, mushroom, and egg",TRUE

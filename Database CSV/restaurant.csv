@@ -1,0 +1,35 @@
+﻿restaurant_id,name,email,phone,address,city,coordinate,password
+1,Warung Nasi Padang Sederhana,warungpadang@gmail.com,81234567890,Jl. Tanjung Duren Raya No. 123,3174,"-6.176212, 106.789480",Dk8EOgneE+
+2,Bakso Pak Kumis,bakpak.kumis@gmail.com,82345678901,Jl. Kyai Tapa No. 123,3175,"-6.150991, 106.884347",^e6TLwku##
+3,Sate Ayam Madura,sateayammadura@gmail.com,87654321098,Jl. Panglima Polim Raya No. 123,3171,"-6.250868, 106.798529",TfEEiWWY%2
+4,Ayam Geprek Bensu,ayamgeprekbensu@gmail.com,82134567890,Jl. K.H. Wahid Hasyim No. 123,3173,"-6.182144, 106.831601",k&0L5Yrb(_
+5,Nasi Goreng Mas Poer,nasigorengmaspoer@gmail.com,89876543210,Jl. Raya Bekasi Timur No. 123,3172,"-6.217148, 106.924084",*B50F9to+8
+6,Bakmi Jawa Mbah Gito,bakmijawambahgito@gmail.com,81345678901,Jl. Danau Sunter Barat No. 123,3175,"-6.139056, 106.883197",6C4MwU(x(y
+7,Mie Ayam Enak,mieayamenak@gmail.com,85678901234,Jl. S. Parman No. 123,3174,"-6.195389, 106.789986",1&@Z%zkZ%E
+8,Nasi Uduk Betawi Asli,nasiudukbetawi@gmail.com,88765432109,Jl. Rasuna Said No. 123,3171,"-6.219764, 106.827407",XL!F1Og8^Y
+9,Pecel Lele Lela,pecellelelela@gmail.com,82123456789,Jl. Daan Mogot No. 123,3174,"-6.157541, 106.739496",!qHkw07$44
+10,Sop Buntut Suci,sopbuntutsuci@gmail.com,89876543210,Jl. Cempaka Putih Raya No. 123,3172,"-6.181708, 106.864698",7V&ZPhdB_d
+11,Warung Pecel Mbok,warungpecelmbok@gmail.com,62812345678,"Jl. Raya Soreang No. 123, Soreang",3204,"-7.017019, 107.527757",tB06IcQS0%
+12,Rumah Makan Si Mamat,rumahmakanmamat@gmail.com,62823456789,"Jl. Raya Banjaran No. 45, Banjaran",3204,"-7.026943, 107.587008",!VV1J9Ucg8
+13,Ayam Goreng Pak Slamet,pakslametayamgoreng@gmail.com,62834567890,"Jl. Raya Cimahi No. 67, Cimahi",3204,"-6.905872, 107.532530",o5TTxNxk_A
+14,Sate Maranggi Si Ema,satemaranggisiema@gmail.com,62845678901,"Jl. Raya Ciwidey No. 89, Ciwidey",3204,"-7.107745, 107.415427",(y3LISXdNW
+15,Nasi Goreng Mas Paijo,nasigorengmaspaijo@gmail.com,62856789012,"Jl. Raya Majalaya No. 12, Majalaya",3204,"-7.032644, 107.764736",5_#t0JSk5r
+16,The White Box,info@thewhitebox.com,+62 22 12345,Jl. Tirtawangi No. 28,3273,"-6.904489, 107.625638",Y+IF7ArFUh
+17,Cibiuk Dago,cibiukdago@gmail.com,+62 22 54321,"Jl. Ir. H. Juanda No. 58, Dago",3273,"-6.872377, 107.614755",K#!0lK)x!a
+18,Nocturnal Kitchen,nocturnalkitchen@gmail.com,+62 851-5555-1234,"Jl. Pandanaran No.14, Pandanaran, Semarang Tengah",3374,"-6.9934118, 110.4202816",iD)6yRj5SX
+19,Crumble Crew Cafe,crumblecrewcafe@gmail.com,+62 852-7777-5678,"Jl. Imam Bonjol No.12, Sekayu, Semarang Tengah",3374,"-6.9854503, 110.4180897",JHV7EY9fe$
+20,Cafe Lentera,cafelentera@gmail.com,+62 857-8888-4321,"Jl. Taman Srigunting No.28, Pleburan, Semarang Timur",3374,"-6.9714829, 110.6588575",+(MWW5R2ko
+21,Hummingbird Cafe,hummingbirdcafe@gmail.com,+62 821-9999-8765,"Jl. Sisingamangaraja No.4, Peterongan, Semarang Selatan",3374,"-7.0051869, 110.4116341",@5Ye(K9uA8
+22,Sweet and Sour Cafe,sweetandsourcafe@gmail.com,+62 877-7777-6543,"Jl. Simpang Lima No.10, Gajahmungkur, Semarang Barat",3374,"-6.9943279, 110.4139927",QJbJzGRo^4
+23,The Harvest,theharvest@gmail.com,+62 81234567,"Jl. Raya Salatiga KM 8, Bandungan, Semarang 50774",3322,"-7.238869, 110.421325",04SSa8jd!A
+24,Kampung Lautan,kampunglautan@gmail.com,+62 82345678,"Jl. Raya Kopeng No.12, Batur, Semarang 50682",3322,"-7.249933, 110.435796",*63!CFOw6+
+25,Warung Leko,warungleko@gmail.com,+62 31 5034884,"Jl. Tidar No. 7, Sawahan",3578,"-7.2638077, 112.7403651",A%0(1Q1eSp
+26,Depot Bu Rudy,depoburudy@yahoo.com,+62 31 7347818,"Jl. Walikota Mustajab No. 36, Ketabang",3578,"-7.2588328, 112.7486555",GVu04PuoN_
+27,Bebek Tepi Sawah,bebektepisawah@gmail.com,+62 31 7317676,"Jl. Raya Puncak Menara No. 60-62, Dukuh Pakis",3578,"-7.2969065, 112.6989657",!j8Adph69O
+28,Domicile Kitchen,domicilekitchen@gmail.com,+62 31 5625551,"Jl. Sumatra No. 37A, Gubeng",3578,"-7.2766283, 112.7372915",W6+2#QyNZj
+29,Rujak Cingur Uleg,rujakcinguruleg@gmail.com,+62 31 5353941,"Jl. Raya Kalirungkut No. 1, Kalirungkut",3578,"-7.2807781, 112.7461025",e0+d4Zmv)(
+30,Warung Makan Bu Putu,warungbuputu@gmail.com,+62 31 5353942,"Jl. Diponegoro No. 45A, Dauh Puri Kauh",5171,"-8.664449, 115.225712",(O(Nqsgd*9
+31,Bebek Tepi Pantai,bebektepipantai@gmail.com,+62 31 5353943,"Jl. Raya Goa Gajah No. 1, Peliatan",5171,"-8.489345, 115.277225",wzA2shca$7
+32,Dapur Sanur,dapursanur@gmail.com,+62 81234567,"Jl. By Pass Ngurah Rai No. 274, Sanur",5171,"-8.697648, 115.248348",QJbJzGRo^3
+33,Warung Babi Guling Pak Dobiel,pakdobiel@gmail.com,+62 81234568,"Jl. Teuku Umar Barat No. 123, Denpasar",5171,"-8.662031, 115.200168",04SSa8ud!A
+34,Pempek Candy,pempekcandy@gmail.com,+62 81234569,"Jl. Hayam Wuruk No. 111, Padangsambian",5171,"-8.674266, 115.195422",*63!CtOw6+
