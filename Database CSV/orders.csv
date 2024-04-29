@@ -1,0 +1,101 @@
+order_id,user_id,driver_id,created_at,delivery_charge,review
+1,26,42,2023-12-05 11:12:28.064680,18000,We will not be coming back.
+2,8,42,2023-05-15 17:30:54.523498,21000,"I'm so happy to be here!!!"""
+3,22,3,2023-01-17 23:47:26.605412,11000,I won't be back.
+4,27,35,2023-01-27 12:51:32.441796,20000,I will not be eating there again.
+5,28,49,2023-06-24 13:28:28.711425,26000,The Greek dressing was very creamy and flavorful.
+6,32,45,2023-07-30 03:32:04.798133,18000,She was quite disappointed although some blame needs to be placed at her door.
+7,35,3,2022-05-03 20:54:35.106335,12000,"Overall, I was very disappointed with the quality of food at Bouchon."
+8,5,28,2023-10-12 02:53:34.853376,11000,WAAAAAAyyyyyyyyyy over rated is all I am saying.
+9,42,45,2022-12-16 05:23:10.159419,27000,The chefs were friendly and did a good job.
+10,48,14,2022-03-09 15:34:56.055588,15000,I as well would've given godfathers zero stars if possible.
+11,20,21,2022-09-07 23:07:24.630640,26000,"As for the ""mains,"" also uninspired."
+12,44,2,2023-09-12 10:22:15.245465,27000,Talk about great customer service of course we will be back.
+13,2,5,2023-09-26 15:44:40.937040,21000,Things that went wrong: - They burned the saganaki.
+14,12,28,2023-01-24 07:31:13.022466,20000,"The food was delicious, our bartender was attentive and personable AND we got a great deal!"
+15,8,46,2022-05-30 11:48:13.301051,28000,This wonderful experience made this place a must-stop whenever we are in town again.
+16,9,46,2022-09-08 08:22:04.200703,11000,"On three different occasions I asked for well done or medium well, and all three times I got the bloodiest piece of meat on my plate."
+17,6,12,2022-03-14 11:54:24.985362,14000,"Not a weekly haunt, but definitely a place to come back to every once in a while."
+18,43,9,2022-06-27 05:40:50.140065,22000,Worst food/service I've had in a while.
+19,47,46,2022-08-03 22:59:07.318681,15000,An absolute must visit!
+20,34,37,2022-12-24 18:33:20.502452,22000,"Back to good BBQ, lighter fare, reasonable pricing and tell the public they are back to the old ways."
+21,3,9,2022-08-18 20:43:27.837111,15000,The servers are not pleasant to deal with and they don't always honor Pizza Hut coupons.
+22,17,20,2022-08-09 00:40:55.151777,19000,Cooked to perfection and the service was impeccable.
+23,10,12,2023-09-10 23:01:23.970767,30000,"Also there are combos like a burger, fries, and beer for 23 which is a decent deal."
+24,18,40,2023-12-24 08:41:13.377726,11000,I love this place.
+25,42,33,2022-01-07 04:14:46.312027,22000,The atmosphere was great with a lovely duo of violinists playing songs we requested.
+26,15,9,2023-09-02 08:04:10.197914,11000,"The whole experience was underwhelming, and I think we'll just go to Ninja Sushi next time."
+27,16,20,2023-05-07 00:58:33.276974,14000,I'm not impressed with the concept or the food.
+28,31,10,2023-05-30 17:22:19.324710,25000,"The chipolte ranch dipping sause was tasteless, seemed thin and watered down with no heat."
+29,45,13,2023-12-17 07:14:00.947038,24000,"Service is quick and even ""to go"" orders are just like we like it!"
+30,46,23,2023-05-31 15:02:27.040703,19000,I LOVED it!
+31,30,27,2022-05-30 20:36:14.276637,13000,Con: spotty service.
+32,32,1,2022-12-22 13:02:08.393816,11000,I'm super pissd.
+33,50,2,2022-04-14 06:43:05.928979,28000,Have been going since 2007 and every meal has been awesome!!
+34,31,37,2023-10-16 15:42:09.259722,21000,first time there and might just be the last.
+35,30,14,2023-03-10 02:06:03.803092,24000,At least think to refill my water before I struggle to wave you over for 10 minutes.
+36,22,6,2022-11-10 03:27:46.966594,28000,RUDE & INCONSIDERATE MANAGEMENT.
+37,36,42,2023-02-02 13:49:42.859703,29000,"The food, amazing."
+38,15,3,2022-09-04 20:02:52.583749,16000,The waitresses are very friendly.
+39,17,31,2022-06-29 17:14:28.678791,23000,I had a seriously solid breakfast here.
+40,7,3,2023-04-21 09:28:36.118365,17000,I *heart* this place.
+41,45,20,2022-05-13 16:37:33.939439,16000,The worst was the salmon sashimi.
+42,3,1,2023-12-04 23:00:35.136746,29000,They also have the best cheese crisp in town.
+43,37,13,2023-12-02 10:50:37.969442,17000,My ribeye steak was cooked perfectly and had great mesquite flavor.
+44,27,40,2023-11-27 10:40:25.586958,30000,"I got to enjoy the seafood salad, with a fabulous vinegrette."
+45,44,35,2023-04-12 00:42:52.679460,25000,I did not expect this to be so good!
+46,19,26,2023-01-24 08:13:02.268276,13000,The food wasn't good.
+47,42,21,2022-08-16 09:47:31.513338,28000,Disappointing experience.
+48,28,13,2023-10-26 21:59:58.345360,20000,I didn't know pulled pork could be soooo delicious.
+49,32,27,2023-05-20 19:33:00.096618,29000,"I find wasting food to be despicable, but this just wasn't food."
+50,50,7,2023-05-30 01:51:04.909394,20000,"How can you call yourself a steakhouse if you can't properly cook a steak, I don't understand!"
+51,31,13,2023-08-07 18:06:14.345466,12000,Would not go back.
+52,49,37,2023-06-29 12:59:24.610620,22000,All of the tapas dishes were delicious!
+53,16,7,2022-02-26 14:38:15.389165,28000,This place is hands-down one of the best places to eat in the Phoenix metro area.
+54,43,23,2023-01-17 02:42:09.266629,16000,"Thus far, have only visited twice and the food was absolutely delicious each time."
+55,25,3,2023-01-19 06:44:34.414561,30000,I left with a stomach ache and felt sick the rest of the day.
+56,50,6,2022-07-06 07:46:09.480624,13000,"I loved the grilled pizza, reminded me of legit Italian pizza."
+57,35,25,2023-02-12 05:21:29.679478,11000,"Took an hour to get our food only 4 tables in restaurant my food was Luke warm, Our sever was running around like he was totally overwhelmed."
+58,37,26,2022-10-21 04:06:49.171362,19000,"A couple of months later, I returned and had an amazing meal."
+59,44,28,2023-11-16 11:14:01.152269,28000,It sure does beat the nachos at the movies but I would expect a little bit more coming from a restaurant.
+60,6,21,2023-11-13 17:17:32.604505,29000,My wife had the Lobster Bisque soup which was lukewarm.
+61,8,28,2022-02-07 12:08:25.759688,19000,"I have watched their prices inflate, portions get smaller and management attitudes grow rapidly!"
+62,40,35,2023-01-11 15:36:16.750103,28000,the spaghetti is nothing special whatsoever.
+63,31,13,2022-01-24 10:29:30.030805,14000,"This hole in the wall has great Mexican street tacos, and friendly staff."
+64,46,49,2023-09-14 07:25:08.803959,15000,Thoroughly disappointed!
+65,30,37,2023-01-07 13:34:09.617295,15000,Went for lunch - service was slow.
+66,30,6,2023-08-18 07:07:30.108449,10000,Owner's are really great people.!
+67,17,49,2022-01-14 21:50:32.108011,26000,We waited for forty five minutes in vain.
+68,6,8,2023-11-08 05:42:55.297174,20000,"I tried the Cape Cod ravoli, chicken, with cranberry...mmmm!"
+69,33,10,2022-11-14 05:34:56.507043,21000,The cow tongue and cheek tacos are amazing.
+70,21,26,2023-10-17 16:43:05.284443,27000,We are so glad we found this place.
+71,45,18,2023-03-10 21:27:18.500358,19000,"It was a bit too sweet, not really spicy enough, and lacked flavor."
+72,48,31,2023-11-30 11:06:46.147336,27000,"Great atmosphere, friendly and fast service."
+73,32,1,2022-08-10 10:50:10.530633,11000,"too bad cause I know it's family owned, I really wanted to like this place."
+74,36,31,2023-03-12 00:34:58.492844,28000,"The sangria was about half of a glass wine full and was $12, ridiculous."
+75,47,14,2023-05-22 02:37:38.419179,10000,"I kept looking at the time and it had soon become 35 minutes, yet still no food."
+76,42,23,2022-08-30 16:33:37.488087,21000,Service was fantastic.
+77,3,26,2023-05-17 18:22:27.743657,20000,"The food is about on par with Denny's, which is to say, not good at all."
+78,36,14,2023-10-30 08:12:49.746324,13000,I waited and waited.
+79,49,46,2022-07-06 18:29:01.579065,13000,"The servers went back and forth several times, not even so much as an ""Are you being helped?"""
+80,7,49,2022-04-09 03:17:06.118082,22000,Their regular toasted bread was equally satisfying with the occasional pats of butter... Mmmm...!
+81,43,45,2022-12-24 17:27:41.765141,26000,This was like the final blow!
+82,45,3,2023-08-11 20:55:49.574950,14000,The warm beer didn't help.
+83,24,18,2022-10-08 18:06:47.982879,10000,We could not believe how dirty the oysters were!
+84,32,25,2022-08-30 15:48:46.134362,29000,DELICIOUS!!
+85,27,41,2023-10-02 13:24:57.702904,29000,The best place to go for a tasty bowl of Pho!
+86,7,10,2022-12-18 10:35:08.869791,26000,Not a single employee came out to see if we were OK or even needed a water refill once they finally served us our food.
+87,5,25,2022-04-26 06:39:12.015794,12000,We loved the biscuits!!!
+88,43,42,2023-05-13 13:39:19.947016,21000,Best breakfast buffet!!!
+89,1,7,2022-02-06 20:38:59.810019,28000,"What did bother me, was the slow service."
+90,20,9,2023-04-07 14:40:39.209415,27000,They also have the best cheese crisp in town.
+91,35,7,2023-03-11 15:09:32.968503,30000,"The wontons were thin, not thick and chewy, almost melt in your mouth."
+92,36,1,2022-04-04 13:54:17.324576,26000,The yellowtail carpaccio was melt in your mouth fresh.
+93,43,6,2022-01-25 04:13:28.382317,18000,This is one of the better buffets that I have been to.
+94,2,45,2022-06-10 18:10:52.271581,28000,Owner's are really great people.!
+95,43,8,2022-07-14 04:02:57.824223,20000,Wow... Loved this place.
+96,14,28,2022-09-08 00:01:10.985027,17000,-My order was not correct.
+97,14,25,2022-02-01 03:51:46.651936,21000,Highly unprofessional and rude to a loyal patron!
+98,2,13,2022-03-22 02:01:16.230823,21000,Omelets are to die for!
+99,31,41,2023-09-21 19:49:42.350769,13000,"The burger is good beef, cooked just right."
+100,29,35,2023-09-25 22:05:14.468130,15000,This place has it!
